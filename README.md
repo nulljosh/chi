@@ -5,7 +5,7 @@
 
 Feng Shui room analyzer PWA. Upload room photos, get Five Elements scoring.
 
-Live: https://fs-one-gamma.vercel.app
+GitHub: https://github.com/nulljosh/chi
 
 ## Stack
 - React 18 + Vite
